@@ -13,7 +13,7 @@ import {
 
 export function Homepage() {
   return (
-    <Box>
+    <Box marginY="32px">
       <VStack spacing="32px">
         <VStack spacing="16px">
           <Heading as="h1">gearframe - stay tuned...</Heading>

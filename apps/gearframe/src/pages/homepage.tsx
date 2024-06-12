@@ -18,12 +18,12 @@ export function Homepage() {
         <VStack spacing="16px">
           <Heading as="h1">gearframe - stay tuned...</Heading>
           <Image
-            boxSize="xs"
-            src="https://media.mymind.host/0N61cTSvAoj51RnyO8ENwf/0NYSeLK0IsR/hWhR46V7wQgb7K2kO3GBm2;2048x2048.webp?Expires=1718174640&Signature=OjND1ippZPviTJ67AG3436bmBYXgdyQCJwXQic4jzTMXNoe3bdQhg1IryKVV~mgSN5AxWMBS-HVHsby0bWz3wK5o2OaZkjeOznC6POmwElym3Z0T14OWNdwaTMXRXlXnTu~fDyelrNMSaAQP~Xn19-czvm5NqAIwYAobqi9TfB72hvko4zbjMybaUqhBlg3jQ4zWo4G8DdwKoaXBsHsc5Lp75Owf-4T~PylUQQbf4t352vgkAAtKvz~94OvgltsDc4Ax1Z38TK2tRM~jrMU29y7U71OesXS-zx7AxTg5hgAhnK7VqIrfdHFGzGoJtWDC~7Wt1RrzvDtKrQWoJ~BCnA__&Key-Pair-Id=APKAIU3XU66SGFMW2CUA"
+            boxSize="250px"
+            src="https://media.discordapp.net/attachments/1229838518822506546/1250446384516042893/5999eb6c-5a9b-46a9-98ce-dc923c3d2c65.jpg?ex=666af872&is=6669a6f2&hm=671a2ee5cba47de7485a361499124dc379c3858eed8ae2f3f839bb629bcd08b9&=&format=webp&width=1144&height=1144"
           />
           <Container>
             <Text fontSize="lg">
-              a playground for implementing project ideas and design inspiration
+              an evolving playground for implementing project and design ideas
             </Text>
           </Container>
           <Link href="https://github.com/p-hubbell/gearframe" isExternal>
@@ -36,25 +36,25 @@ export function Homepage() {
             <WrapItem>
               <Image
                 boxSize="200px"
-                src="https://media.mymind.host/0N61cTSvAoj51RnyO8ENwf/0NYVrKOwJOw/jzYn95NKwoUbbc1ti249LC;1000x1008.webp?Expires=1718173020&Signature=47T9gPdPqnv60fgoUOb8yrpbiiVgjLXzUhQdNeMMZW0yPHnjXHyvPXjhS5PQcSNu5sKesXcB5pbpUJ3pzSM3yrEDHw7wDpMvn4kfqfTAPWflqlK0WISdp1amaMOZ~dBr5PCgpVVd4-MhOjOW4cu696DRmy878jPXnLOkE6A8V02Y9SjBU15JEyXzGR9864c9ZojSZceslYQD94mKeyyFHo~QLK4m1lcvGOb3cHN0X-~Z1SFBNQD5nu-P-y2tKa-dxaMBHdIbcWmuo~9mzxyogPVBC~qXhlPlXY40WkW8oaUZCYd1FbB0~yrgaHgpOLuE9KII6WHAufurlQi-pXf~0w__&Key-Pair-Id=APKAIU3XU66SGFMW2CUA"
+                src="https://media.discordapp.net/attachments/1229838518822506546/1250445239299215463/jzYn95NKwoUbbc1ti249LC1000x1008.png?ex=666af761&is=6669a5e1&hm=2a22ad1c1c17e363e623ce7fcfa5bf8c12b103a2d364a231ca7f9227df1632f3&=&format=webp&quality=lossless&width=1134&height=1144"
               />
             </WrapItem>
             <WrapItem>
               <Image
                 boxSize="200px"
-                src="https://media.mymind.host/0N61cTSvAoj51RnyO8ENwf/0NYSptFPQE8/j7pX6uOEArjcDaYF5psmXk;1200x1202.webp?Expires=1718173260&Signature=Ow4xHO8M0r~Rh~-11X00V-hmuDYJNB-Tn60-cdB3w1PoNZE6cwNCFleSoA57KazCgeAMh3YSec2j6x5uuQKUj4AGfnj5yZDuWo01ky9FzAgbCdhEJW1NALtaI7PWxubK22uYVNmFX3f9Wg0qo~bNcstOiXRgzao~9PkQxeNbxNSPOAdFinItbw0S4xPEBE-vRlrnFqTnS85P-y6ZYr842n133Xqx4clDNa5F4wkVF8~Dz6HxJnH8QrlXSQ7s6xJvPKavxrdNLzHWJ~DiSJReaRO5M8Rih-KCa8LYKYqYKs9hgHruhtszFvEmshyXYDRrXWXz2adDmuz97QwuW1W0Mw__&Key-Pair-Id=APKAIU3XU66SGFMW2CUA"
+                src="https://media.discordapp.net/attachments/1229838518822506546/1250445428546076754/j7pX6uOEArjcDaYF5psmXk1200x1202.png?ex=666af78e&is=6669a60e&hm=3e2d546f3a16bd48a0a692ffb97d0fda74eb6e4aefee6113f0c0bfffb538dbbe&=&format=webp&quality=lossless&width=698&height=700"
               />
             </WrapItem>
             <WrapItem>
               <Image
                 boxSize="200px"
-                src="https://media.mymind.host/0N61cTSvAoj51RnyO8ENwf/0NYSprlGQHE/kmKUci9ZACocXV71nY8RuF;1184x1200.webp?Expires=1718173380&Signature=PAcE~GTSfUC5mLrxAIrdSHPS4mlMRntopj2ZOr3AzFXRiJVsIkg7orpXaHLewTLiE1mD01pWdqlkvB-aoPGF6FuOPOaUlUxk1Okkzzy57cawu1oRDUDfwHpcvjrx-o8qssoGCPn~RbD1nR1BglPqKQBp89-WUxHN4FGChD0FZCMTPofF8~a1hx0Le4AlpoXBhkT6NV1SpppsiQGwzyvDFGTGCe3KEyyMxP-FjS6JEpoU2RwuGh6SDNpKajgfJsyjnluCJ2~fhoHboq~l-Y4OyWBZ~IgeYG2UqMCg3uYbOMmcCf4RPOKHVA31a4ko0WshOFCZuNN8SjObxaf-g4wEug__&Key-Pair-Id=APKAIU3XU66SGFMW2CUA"
+                src="https://media.discordapp.net/attachments/1229838518822506546/1250445505843171341/kmKUci9ZACocXV71nY8RuF1184x1200.png?ex=666af7a0&is=6669a620&hm=ae9dee108e257b9f3dcb76ec11c387940a7b8953c6c4d76c3403cd9ede9be2b3&=&format=webp&quality=lossless&width=1128&height=1144"
               />
             </WrapItem>
             <WrapItem>
               <Image
                 boxSize="200px"
-                src="https://media.mymind.host/0N61cTSvAoj51RnyO8ENwf/0NYSpwKFb0i/f5IjSrkFoWYd88oAxZEx3R;1198x1204.webp?Expires=1718173440&Signature=jn~Cl-IKQp0QTq1QsIwIV~FTXcDvePFUo9nxPFdg2ihBBqtHVzssJmCA8i739lPlibYS3h6hjIrITDKxMwsu~U6omEUI7-RU4AcWcFvri-T4pG61VGRysshS8SaogOUweHMtAvWA05NqORAlQcPEMd8fFWdVhDB-yLbVMiMihOzw9s-IP0aU2CmP8OCmZm5hNZD13vD~p0h~CooWilruVqGTrtoVtJd9WgRjsZ9K5Nzbmv7oSqGTf37qIAMWVc1QerJUBi6p5Scrozq5Xb97I0pVo~dbrMRZ4EPtuFWK2DBC5bJd8FGY8mOjeSeI2r9BM1-yPLVvGr3PHZEOurphcg__&Key-Pair-Id=APKAIU3XU66SGFMW2CUA"
+                src="https://media.discordapp.net/attachments/1229838518822506546/1250445679311192256/f5IjSrkFoWYd88oAxZEx3R1198x1204.png?ex=666af7ca&is=6669a64a&hm=5cdf791a12e8e28ad609a49e0258deba0819d3276874111b79ff7cfada7bc2f6&=&format=webp&quality=lossless&width=696&height=700"
               />
             </WrapItem>
           </Wrap>

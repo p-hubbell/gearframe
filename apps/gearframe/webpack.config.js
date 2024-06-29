@@ -27,4 +27,20 @@ module.exports = {
       // svgr: false
     }),
   ],
+  module: {
+    rules: [
+      {
+        test: /\.(webm)$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              name: '[name].[ext]',
+              outputPath: 'videos/',
+            },
+          },
+        ],
+      },
+    ],
+  },
 };

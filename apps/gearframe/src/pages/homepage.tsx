@@ -10,7 +10,7 @@ import {
   WrapItem,
   Box,
 } from '@chakra-ui/react';
-import gearframeLogoDirectionImg from '../assets/images/5999eb6c-5a9b-46a9-98ce-dc923c3d2c65.jpg';
+import gearframeAnimatedLogo from '../assets/videos/animated-logo-transparent-background-square.webm';
 import directionImg1 from '../assets/images/jzYn95NKwoUbbc1ti249LC1000x1008.png';
 import directionImg2 from '../assets/images/j7pX6uOEArjcDaYF5psmXk1200x1202.png';
 import directionImg3 from '../assets/images/kmKUci9ZACocXV71nY8RuF1184x1200.png';
@@ -34,10 +34,16 @@ export function Homepage() {
       <VStack spacing="32px">
         <VStack spacing="16px">
           <Heading as="h1">gearframe - stay tuned...</Heading>
-          <Image
-            boxSize="250px"
-            src={gearframeLogoDirectionImg}
-          />
+          <video
+            width="250px"
+            height="250px"
+            src={gearframeAnimatedLogo}
+            autoPlay
+            loop
+            muted
+          >
+            <source src={gearframeAnimatedLogo} type="video/quicktime" />
+          </video>
           <Container>
             <Text fontSize="lg">
               an evolving playground for implementing project and design ideas
@@ -49,7 +55,12 @@ export function Homepage() {
         </VStack>
         <VStack spacing="16px">
           <Heading as="h2">design direction</Heading>
-          {ImageWrap(directionImg1, directionImg2, directionImg3, directionImg4)}
+          {ImageWrap(
+            directionImg1,
+            directionImg2,
+            directionImg3,
+            directionImg4
+          )}
         </VStack>
       </VStack>
     </Box>
